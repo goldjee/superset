@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-06-04 22:57+0400\n"
-"PO-Revision-Date: 2024-06-10 20:17+0400\n"
+"PO-Revision-Date: 2024-06-10 20:35+0400\n"
 "Last-Translator: Daniel Checheta\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -637,7 +637,7 @@ msgstr "2 года назад"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/BoxPlot/controlPanel.ts:96
 msgid "2/98 percentiles"
-msgstr "2/98 перцентели"
+msgstr "2/98 процентиль"
 
 #: superset-frontend/src/features/databases/DatabaseModal/SSHTunnelForm.tsx:87
 msgid "22"
@@ -783,7 +783,7 @@ msgstr "7Д"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/BoxPlot/controlPanel.ts:97
 msgid "9/91 percentiles"
-msgstr "9/91 перцентели"
+msgstr "9/91 процентиль"
 
 #: superset-frontend/src/features/alerts/AlertReportModal.tsx:147
 msgid "90 days"
@@ -5909,7 +5909,7 @@ msgstr "Детали утверждения"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/BoxPlot/controlPanel.ts:90
 msgid "Determines how whiskers and outliers are calculated."
-msgstr "Определяет формулу расчета \"усов\" и выбросов."
+msgstr "Определяет формулу расчета \"усов\" и выбросов"
 
 #: superset/views/dashboard/mixin.py:70
 msgid ""
@@ -6077,9 +6077,8 @@ msgstr ""
 "диаграмму \"Дуга\" deck.gl."
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/BoxPlot/controlPanel.ts:167
-#, fuzzy
 msgid "Distribute across"
-msgstr "Распределить между"
+msgstr "Распределить по"
 
 #: superset-frontend/plugins/legacy-plugin-chart-histogram/src/index.js:28
 #: superset-frontend/plugins/legacy-plugin-chart-horizon/src/index.js:26
@@ -17244,10 +17243,10 @@ msgstr "Попробуйте использовать другие критер�
 msgid "Tuesday"
 msgstr "Вторник"
 
+# Это не ошибка перевода. Джон Тьюки - математик из США.
 #: superset-frontend/plugins/plugin-chart-echarts/src/BoxPlot/controlPanel.ts:94
-#, fuzzy
 msgid "Tukey"
-msgstr "запрос"
+msgstr "Оценка Тьюки"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/controls.tsx:67
 #: superset-frontend/src/components/Datasource/ChangeDatasourceModal.tsx:222
@@ -19892,7 +19891,7 @@ msgstr "ffill (заполняет пропуски следующими знач
 #: superset-frontend/plugins/plugin-chart-echarts/src/BoxPlot/controlPanel.ts:118
 #: superset-frontend/plugins/plugin-chart-word-cloud/src/plugin/controlPanel.ts:85
 msgid "flat"
-msgstr "плоский"
+msgstr "равномерно"
 
 #: superset-frontend/src/features/databases/DatabaseModal/SqlAlchemyForm.tsx:97
 msgid "for more information on how to structure your URI."
@@ -20187,7 +20186,7 @@ msgstr "Отрисовка"
 
 #: superset-frontend/plugins/legacy-plugin-chart-histogram/src/Histogram.jsx:125
 msgid "percentile (exclusive)"
-msgstr "перцентиль (исключая)"
+msgstr "процентиль (исключая)"
 
 #: superset/utils/pandas_postprocessing/boxplot.py:88
 #, fuzzy
@@ -20337,9 +20336,8 @@ msgstr "с накоплением"
 
 #: superset-frontend/plugins/legacy-preset-chart-nvd3/src/NVD3Controls.tsx:222
 #: superset-frontend/plugins/plugin-chart-echarts/src/BoxPlot/controlPanel.ts:121
-#, fuzzy
 msgid "staggered"
-msgstr "Запущен"
+msgstr "наклонно"
 
 #: superset-frontend/plugins/legacy-plugin-chart-map-box/src/controlPanel.ts:177
 #: superset-frontend/plugins/legacy-plugin-chart-partition/src/controlPanel.tsx:259
