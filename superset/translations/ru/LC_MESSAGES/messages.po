@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-06-04 22:57+0400\n"
-"PO-Revision-Date: 2024-06-10 20:35+0400\n"
+"PO-Revision-Date: 2024-06-10 20:42+0400\n"
 "Last-Translator: Daniel Checheta\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -2834,9 +2834,8 @@ msgid "Bubble size"
 msgstr "Размер маркера"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Bubble/controlPanel.tsx:97
-#, fuzzy
 msgid "Bubble size number format"
-msgstr "Форматирование маленьких чисел"
+msgstr "Числовой формат размера пузырька"
 
 #: superset-frontend/plugins/legacy-preset-chart-deckgl/src/layers/Polygon/controlPanel.ts:157
 msgid "Bucket break points"
@@ -9462,7 +9461,7 @@ msgstr "Максимум"
 #: superset-frontend/plugins/legacy-preset-chart-nvd3/src/Bubble/controlPanel.ts:58
 #: superset-frontend/plugins/plugin-chart-echarts/src/Bubble/controlPanel.tsx:78
 msgid "Max Bubble Size"
-msgstr "Максимальный размер пузыря"
+msgstr "Максимальный размер пузырька"
 
 #: superset-frontend/plugins/legacy-plugin-chart-event-flow/src/controlPanel.tsx:126
 msgid "Max Events"
@@ -18747,11 +18746,11 @@ msgstr ""
 
 #: superset-frontend/packages/superset-ui-chart-controls/src/sections/chartTitle.tsx:58
 msgid "X AXIS TITLE BOTTOM MARGIN"
-msgstr "Отступ снизу названия оси X"
+msgstr "Отступ от заголовка оси X снизу"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Bubble/controlPanel.tsx:143
 msgid "X AXIS TITLE MARGIN"
-msgstr ""
+msgstr "Отступ заголовка оси X"
 
 #: superset-frontend/packages/superset-ui-chart-controls/src/sections/chartTitle.tsx:38
 #: superset-frontend/packages/superset-ui-chart-controls/src/shared-controls/dndControls.tsx:215
@@ -18836,7 +18835,7 @@ msgstr "Границы оси Y 2"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Bubble/controlPanel.tsx:215
 msgid "Y AXIS TITLE MARGIN"
-msgstr "Отступ названия оси Y"
+msgstr "Отступ заголовка оси Y"
 
 #: superset-frontend/packages/superset-ui-chart-controls/src/sections/chartTitle.tsx:66
 #: superset-frontend/packages/superset-ui-chart-controls/src/shared-controls/dndControls.tsx:224
