@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-06-04 22:57+0400\n"
-"PO-Revision-Date: 2024-06-10 20:07+0400\n"
+"PO-Revision-Date: 2024-06-10 20:17+0400\n"
 "Last-Translator: Daniel Checheta\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -14063,7 +14063,7 @@ msgstr "Показать общий итог"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/BigNumber/BigNumberWithTrendline/controlPanel.tsx:88
 msgid "Show Trend Line"
-msgstr "Показать трендовую линию"
+msgstr "Показать линию тренда"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Treemap/controlPanel.tsx:82
 msgid "Show Upper Labels"
@@ -14710,7 +14710,7 @@ msgstr "Начальная дата включена во временной и�
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/BigNumber/BigNumberWithTrendline/controlPanel.tsx:100
 msgid "Start y-axis at 0"
-msgstr "Начать ось Y с 0"
+msgstr "Начать ось Y в нуле"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/BigNumber/BigNumberWithTrendline/controlPanel.tsx:103
 msgid "Start y-axis at zero. Uncheck to start y-axis at minimum value in the data."
@@ -17719,10 +17719,11 @@ msgstr ""
 msgid "Use this section if you want to query atomic rows"
 msgstr ""
 
+# Эта строчка используется в том числе для карточки с линией тренда. Поэтому перевод, близкий к тексту, будет выглядеть плохо.
 #: superset-frontend/packages/superset-ui-chart-controls/src/shared-controls/sharedControls.tsx:126
 #: superset-frontend/src/explore/controls.jsx:206
 msgid "Use this to define a static color for all circles"
-msgstr "Цвет всех кругов"
+msgstr "Используйте, чтобы задать фиксированный цвет визуализации"
 
 #: superset/views/dynamic_plugins.py:48
 #, fuzzy
