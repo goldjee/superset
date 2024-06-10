@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-06-04 22:57+0400\n"
-"PO-Revision-Date: 2024-06-10 19:13+0400\n"
+"PO-Revision-Date: 2024-06-10 20:07+0400\n"
 "Last-Translator: Daniel Checheta\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -17683,9 +17683,7 @@ msgstr ""
 #: superset-frontend/plugins/plugin-chart-echarts/src/BigNumber/BigNumberTotal/controlPanel.ts:86
 #: superset-frontend/plugins/plugin-chart-echarts/src/BigNumber/BigNumberWithTrendline/controlPanel.tsx:160
 msgid "Use date formatting even when metric value is not a timestamp"
-msgstr ""
-"Использовать перевод к формату дата/время, даже если мера представляет другой тип "
-"данных"
+msgstr "Отформатировать как дату, даже если мера представлена другим типом данных"
 
 #: superset-frontend/src/components/Datasource/DatasourceModal.tsx:302
 msgid "Use legacy datasource editor"
@@ -19390,9 +19388,8 @@ msgid "alert condition"
 msgstr "Условие оповещения"
 
 #: superset-frontend/src/explore/components/controls/ConditionalFormattingControl/FormattingPopoverContent.tsx:46
-#, fuzzy
 msgid "alert dark"
-msgstr "оповещение"
+msgstr "оповещение (темная)"
 
 #: superset-frontend/src/pages/AlertReportList/index.tsx:113
 msgid "alerts"
@@ -19830,7 +19827,7 @@ msgstr "ошибка"
 
 #: superset-frontend/src/explore/components/controls/ConditionalFormattingControl/FormattingPopoverContent.tsx:47
 msgid "error dark"
-msgstr ""
+msgstr "ошибка (темная)"
 
 #: superset/models/helpers.py:1838
 #, fuzzy
@@ -20377,14 +20374,12 @@ msgstr ""
 #: superset-frontend/src/SqlLab/constants.ts:39
 #: superset-frontend/src/SqlLab/constants.ts:51
 #: superset-frontend/src/explore/components/controls/ConditionalFormattingControl/FormattingPopoverContent.tsx:42
-#, fuzzy
 msgid "success"
-msgstr "Успешно"
+msgstr "успех"
 
 #: superset-frontend/src/explore/components/controls/ConditionalFormattingControl/FormattingPopoverContent.tsx:45
-#, fuzzy
 msgid "success dark"
-msgstr "Успешно"
+msgstr "успех (темная)"
 
 #: superset-frontend/plugins/legacy-plugin-chart-map-box/src/controlPanel.ts:173
 #: superset-frontend/plugins/legacy-plugin-chart-partition/src/controlPanel.tsx:258
