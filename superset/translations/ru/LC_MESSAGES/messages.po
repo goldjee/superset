@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-06-04 22:57+0400\n"
-"PO-Revision-Date: 2024-06-17 09:12+0400\n"
+"PO-Revision-Date: 2024-06-17 09:22+0400\n"
 "Last-Translator: Daniel Checheta\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -4179,8 +4179,8 @@ msgid ""
 "Comma-separated interval bounds, e.g. 2,4,5 for intervals 0-2, 2-4 and 4-5. Last "
 "number should match the value provided for MAX."
 msgstr ""
-"Границы интервала, разделенные запятой, например, 2,4,5 для интервалов 0-2, 2-4 и "
-"4-5. Последнее число должно быть равно заданному максиму."
+"Границы интервала, разделенные запятой. Например, 2,4,5 для интервалов 0-2, 2-4 и "
+"4-5. Последнее число должно быть равно заданному максимуму."
 
 #: superset-frontend/src/explore/components/controls/FilterControl/AdhocFilterEditPopoverSimpleTabContent/index.tsx:368
 msgid "Comparator option"
@@ -10627,7 +10627,7 @@ msgstr "Количество строк с начала файла, которы
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Gauge/controlPanel.tsx:227
 msgid "Number of split segments on the axis"
-msgstr "Количество разделенных сегментов на индикаторе"
+msgstr "Количество сегментов на оси"
 
 #: superset-frontend/plugins/legacy-plugin-chart-heatmap/src/controlPanel.tsx:98
 #: superset-frontend/plugins/plugin-chart-echarts/src/Heatmap/controlPanel.tsx:141
@@ -12718,7 +12718,7 @@ msgstr "Вращение для применения к словам в обла
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Gauge/controlPanel.tsx:267
 msgid "Round cap"
-msgstr "Закругление на концах"
+msgstr "Скругление"
 
 #: superset-frontend/packages/superset-ui-chart-controls/src/shared-controls/customControls.tsx:51
 #: superset-frontend/src/dashboard/components/gridComponents/new/NewRow.jsx:31
@@ -14842,7 +14842,7 @@ msgstr "Стиль"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Gauge/controlPanel.tsx:268
 msgid "Style the ends of the progress bar with a round cap"
-msgstr "Оформление концов индикатора круглыми заглушками"
+msgstr "Скруглять элементы визуализации"
 
 #: superset-frontend/plugins/legacy-plugin-chart-calendar/src/controlPanel.ts:60
 msgid "Subdomain"
@@ -18628,7 +18628,7 @@ msgstr "Отобразить указатель"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Gauge/controlPanel.tsx:242
 msgid "Whether to show the progress of gauge chart"
-msgstr "Показать прогресс на индикаторной диаграмме"
+msgstr "Показать прогресс"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Gauge/controlPanel.tsx:215
 msgid "Whether to show the split lines on the axis"
