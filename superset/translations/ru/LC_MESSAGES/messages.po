@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-06-04 22:57+0400\n"
-"PO-Revision-Date: 2024-06-19 06:45+0400\n"
+"PO-Revision-Date: 2024-06-19 06:53+0400\n"
 "Last-Translator: Daniel Checheta\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -3762,7 +3762,7 @@ msgstr "Круглая форма радара"
 #: superset-frontend/plugins/plugin-chart-echarts/src/Graph/index.ts:42
 #: superset-frontend/plugins/plugin-chart-echarts/src/Pie/index.ts:71
 msgid "Circular"
-msgstr "Круглая форма"
+msgstr "Кольцевой"
 
 #: superset-frontend/plugins/legacy-preset-chart-nvd3/src/Line/index.js:32
 msgid "Classic chart that visualizes how metrics change over time."
@@ -7665,7 +7665,7 @@ msgstr ""
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Graph/controlPanel.tsx:111
 msgid "Force"
-msgstr "Силовой алгоритм"
+msgstr "Силовой"
 
 #: superset-frontend/src/features/databases/DatabaseModal/ExtraOptions.tsx:153
 msgid ""
@@ -8887,7 +8887,7 @@ msgstr "Оформление"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Graph/controlPanel.tsx:114
 msgid "Layout type of graph"
-msgstr ""
+msgstr "Способ отрисовки графа"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Tree/controlPanel.tsx:121
 #: superset-frontend/plugins/plugin-chart-echarts/src/Tree/controlPanel.tsx:244
@@ -14975,7 +14975,7 @@ msgstr "Символ"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Graph/controlPanel.tsx:125
 msgid "Symbol of two ends of edge line"
-msgstr ""
+msgstr "Оформление концов ребра графа"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Tree/controlPanel.tsx:253
 #, fuzzy
