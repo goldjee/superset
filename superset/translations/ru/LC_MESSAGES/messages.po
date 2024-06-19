@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-06-04 22:57+0400\n"
-"PO-Revision-Date: 2024-06-17 09:22+0400\n"
+"PO-Revision-Date: 2024-06-19 06:45+0400\n"
 "Last-Translator: Daniel Checheta\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -6167,7 +6167,7 @@ msgstr "Отобразить маркеры на точках данных. Пр
 #: superset-frontend/plugins/plugin-chart-echarts/src/Timeseries/Regular/Line/controlPanel.tsx:103
 #: superset-frontend/plugins/plugin-chart-echarts/src/Timeseries/Step/controlPanel.tsx:97
 msgid "Draw area under curves. Only applicable for line types."
-msgstr "Отобразить область под кривыми. Применимо только для линий."
+msgstr "Залить область под кривыми. Применимо только для графиков."
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Pie/controlPanel.tsx:196
 msgid "Draw line from Pie to label when labels outside?"
@@ -14267,7 +14267,7 @@ msgstr "Показано %s из %s"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/controls.tsx:183
 msgid "Shows a list of all series available at that point in time"
-msgstr "Показывает список всех данных, доступных в определенный момент времени"
+msgstr "Показывает все ряды, содержащие данные"
 
 #: superset-frontend/src/explore/components/controls/AnnotationLayerControl/AnnotationLayer.jsx:869
 msgid "Shows or hides markers for the time series"
