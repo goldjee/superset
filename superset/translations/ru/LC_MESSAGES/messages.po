@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-06-04 22:57+0400\n"
-"PO-Revision-Date: 2024-06-19 06:53+0400\n"
+"PO-Revision-Date: 2024-06-19 06:58+0400\n"
 "Last-Translator: Daniel Checheta\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -2948,7 +2948,7 @@ msgstr "CSS"
 
 #: superset-frontend/plugins/plugin-chart-handlebars/src/plugin/controls/style.tsx:75
 msgid "CSS Styles"
-msgstr "CSS стили"
+msgstr "CSS-стили"
 
 #: superset/initialization/__init__.py:282
 msgid "CSS Templates"
@@ -19191,7 +19191,7 @@ msgstr "Сначала необходимо успешно выполнить з
 
 #: superset-frontend/plugins/plugin-chart-handlebars/src/plugin/controls/style.tsx:53
 msgid "You need to configure HTML sanitization to use CSS"
-msgstr ""
+msgstr "Чтобы использовать CSS, вам нужно настроить санитайзер HTML"
 
 #: superset-frontend/src/explore/components/ExploreChartPanel/index.jsx:349
 msgid ""
