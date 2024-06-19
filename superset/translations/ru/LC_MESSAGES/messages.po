@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-06-04 22:57+0400\n"
-"PO-Revision-Date: 2024-06-19 07:07+0400\n"
+"PO-Revision-Date: 2024-06-19 07:13+0400\n"
 "Last-Translator: Daniel Checheta\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -10300,7 +10300,7 @@ msgstr "Записи не найдены"
 
 #: superset-frontend/plugins/legacy-plugin-chart-histogram/src/controlPanel.ts:70
 msgid "No of Bins"
-msgstr "Количество столбцов"
+msgstr "Количество бинов"
 
 #: superset-frontend/src/features/home/EmptyState.tsx:37
 #, fuzzy
@@ -13769,7 +13769,7 @@ msgstr "Выберите geojson столбец"
 
 #: superset-frontend/plugins/legacy-plugin-chart-histogram/src/controlPanel.ts:82
 msgid "Select the number of bins for the histogram"
-msgstr "Выберите количество столбцов для гистограммы"
+msgstr "Выберите количество бинов гистограммы"
 
 #: superset-frontend/plugins/legacy-plugin-chart-histogram/src/controlPanel.ts:33
 msgid "Select the numeric columns to draw the histogram"
