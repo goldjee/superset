@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-06-04 22:57+0400\n"
-"PO-Revision-Date: 2024-06-19 07:17+0400\n"
+"PO-Revision-Date: 2024-06-19 07:32+0400\n"
 "Last-Translator: Daniel Checheta\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -2603,7 +2603,7 @@ msgstr "Неподходящий пространственный ключ"
 #: superset-frontend/plugins/plugin-chart-echarts/src/Timeseries/Regular/Bar/index.ts:82
 #: superset-frontend/plugins/plugin-chart-echarts/src/Timeseries/Regular/Line/controlPanel.tsx:85
 msgid "Bar"
-msgstr "Столбчатая"
+msgstr "Гистограмма"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Timeseries/Regular/Bar/index.ts:74
 msgid "Bar Chart"
@@ -2777,7 +2777,6 @@ msgstr ""
 "функция только расширит диапазон осей. Она не изменит размер диаграммы."
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/MixedTimeseries/controlPanel.tsx:400
-#, fuzzy
 msgid ""
 "Bounds for the secondary Y-axis. Only works when Independent Y-axis\n"
 "                bounds are enabled. When left empty, the bounds are dynamically "
@@ -2786,9 +2785,10 @@ msgid ""
 "only expand\n"
 "                the axis range. It won't narrow the data's extent."
 msgstr ""
-"Границы для оси Y. Если оставить поле пустым, границы динамически определяются на "
-"основе минимального/максимального значения данных. Обратите внимание, что эта "
-"функция только расширит диапазон осей. Она не изменит размер диаграммы."
+"Границы для вторичной оси Y. Если оставить поле пустым, границы динамически "
+"определяются на основе минимального/максимального значения данных. Обратите "
+"внимание, что эта функция только расширит диапазон осей. Она не изменит размер "
+"диаграммы."
 
 #: superset-frontend/plugins/legacy-preset-chart-nvd3/src/BoxPlot/index.js:26
 #: superset-frontend/plugins/plugin-chart-echarts/src/BoxPlot/index.ts:59
@@ -9067,7 +9067,7 @@ msgstr ""
 #: superset-frontend/plugins/plugin-chart-echarts/src/Timeseries/Regular/SmoothLine/index.ts:74
 #: superset-frontend/plugins/plugin-chart-echarts/src/Timeseries/index.ts:61
 msgid "Line"
-msgstr "Линейный"
+msgstr "График"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Timeseries/Regular/Line/index.ts:69
 msgid "Line Chart"
@@ -11801,9 +11801,8 @@ msgid "Primary or secondary y-axis"
 msgstr "Первичная или вторичная ось Y"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/MixedTimeseries/controlPanel.tsx:358
-#, fuzzy
 msgid "Primary y-axis Bounds"
-msgstr "Формат первичной оси Y"
+msgstr "Границы первичной оси Y"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/MixedTimeseries/controlPanel.tsx:375
 msgid "Primary y-axis format"
@@ -13205,7 +13204,7 @@ msgstr "Только масштабирование"
 #: superset-frontend/plugins/plugin-chart-echarts/src/Timeseries/Regular/Line/controlPanel.tsx:83
 #: superset-frontend/plugins/plugin-chart-echarts/src/Timeseries/Regular/Scatter/index.ts:75
 msgid "Scatter"
-msgstr "Точечный"
+msgstr "Точки"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Timeseries/Regular/Scatter/index.ts:68
 msgid "Scatter Plot"
@@ -13374,14 +13373,12 @@ msgid "Secondary Metric"
 msgstr "Вторичная мера"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/MixedTimeseries/controlPanel.tsx:423
-#, fuzzy
 msgid "Secondary currency format"
-msgstr "Формат вторичной оси Y"
+msgstr "Формат валюты вторичной оси"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/MixedTimeseries/controlPanel.tsx:397
-#, fuzzy
 msgid "Secondary y-axis Bounds"
-msgstr "Формат вторичной оси Y"
+msgstr "Границы вторичной оси Y"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/MixedTimeseries/controlPanel.tsx:414
 msgid "Secondary y-axis format"
@@ -13862,7 +13859,6 @@ msgid "Series limit"
 msgstr "Лимит кол-ва рядов"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/MixedTimeseries/controlPanel.tsx:144
-#, fuzzy
 msgid "Series type"
 msgstr "Тип рядов"
 
@@ -13944,7 +13940,7 @@ msgstr "Общий запрос"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/MixedTimeseries/controlPanel.tsx:288
 msgid "Shared query fields"
-msgstr "Поля общедоступного запроса"
+msgstr "Поля общего запроса"
 
 #: superset-frontend/src/features/databases/UploadDataModel/index.tsx:731
 msgid "Sheet name"
@@ -14362,7 +14358,7 @@ msgstr "Форматирование маленьких чисел"
 #: superset-frontend/plugins/plugin-chart-echarts/src/Timeseries/Regular/Line/controlPanel.tsx:84
 #: superset-frontend/plugins/plugin-chart-echarts/src/Timeseries/Regular/SmoothLine/index.ts:68
 msgid "Smooth Line"
-msgstr "Гладкая линия"
+msgstr "Сглаженный график"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Timeseries/Regular/SmoothLine/index.ts:58
 msgid ""
@@ -14642,7 +14638,7 @@ msgstr "Использовать накопление"
 #: superset-frontend/plugins/plugin-chart-echarts/src/Timeseries/Area/controlPanel.tsx:118
 #: superset-frontend/plugins/plugin-chart-echarts/src/controls.tsx:127
 msgid "Stack series on top of each other"
-msgstr "Объединить ряды с накоплением"
+msgstr "Объединить ряды в накопление"
 
 #: superset-frontend/plugins/legacy-plugin-chart-country-map/src/index.js:40
 #: superset-frontend/plugins/legacy-preset-chart-nvd3/src/Area/index.js:51
@@ -18521,7 +18517,7 @@ msgstr "Отобразить минимальное и максимальное 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Heatmap/controlPanel.tsx:264
 #: superset-frontend/plugins/plugin-chart-echarts/src/MixedTimeseries/controlPanel.tsx:194
 msgid "Whether to display the numerical values within the cells"
-msgstr "Отобразить числовые значения в ячейках"
+msgstr "Отобразить значения"
 
 #: superset-frontend/plugins/legacy-preset-chart-deckgl/src/utilities/Shared_DeckGL.jsx:262
 msgid "Whether to display the stroke"
