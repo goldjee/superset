@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-06-04 22:57+0400\n"
-"PO-Revision-Date: 2024-06-19 06:58+0400\n"
+"PO-Revision-Date: 2024-06-19 07:07+0400\n"
 "Last-Translator: Daniel Checheta\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -8980,7 +8980,6 @@ msgid "Legend Position"
 msgstr "Расположение легенды"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Heatmap/controlPanel.tsx:117
-#, fuzzy
 msgid "Legend Type"
 msgstr "Тип легенды"
 
@@ -10632,12 +10631,12 @@ msgstr "Количество сегментов на оси"
 #: superset-frontend/plugins/legacy-plugin-chart-heatmap/src/controlPanel.tsx:98
 #: superset-frontend/plugins/plugin-chart-echarts/src/Heatmap/controlPanel.tsx:141
 msgid "Number of steps to take between ticks when displaying the X scale"
-msgstr ""
+msgstr "Количество шагов между делениями оси X"
 
 #: superset-frontend/plugins/legacy-plugin-chart-heatmap/src/controlPanel.tsx:114
 #: superset-frontend/plugins/plugin-chart-echarts/src/Heatmap/controlPanel.tsx:159
 msgid "Number of steps to take between ticks when displaying the Y scale"
-msgstr ""
+msgstr "Количество шагов между делениями оси Y"
 
 #: superset-frontend/src/dashboard/components/nativeFilters/FiltersConfigModal/FiltersConfigForm/FiltersConfigForm.tsx:322
 msgid "Numerical range"
@@ -11419,7 +11418,7 @@ msgstr "Форма круговой диаграммы"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Heatmap/controlPanel.tsx:121
 msgid "Piecewise"
-msgstr ""
+msgstr "Дискретный"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Tree/controlPanel.tsx:232
 msgid "Pin"
@@ -18824,7 +18823,7 @@ msgstr "Ось X"
 #: superset-frontend/plugins/legacy-plugin-chart-heatmap/src/controlPanel.tsx:93
 #: superset-frontend/plugins/plugin-chart-echarts/src/Heatmap/controlPanel.tsx:134
 msgid "XScale Interval"
-msgstr ""
+msgstr "Интервал оси X"
 
 #: superset-frontend/plugins/legacy-preset-chart-nvd3/src/NVD3Controls.tsx:110
 msgid "Y 2 bounds"
@@ -18929,9 +18928,8 @@ msgstr "Границы оси Y"
 
 #: superset-frontend/plugins/legacy-plugin-chart-heatmap/src/controlPanel.tsx:109
 #: superset-frontend/plugins/plugin-chart-echarts/src/Heatmap/controlPanel.tsx:152
-#, fuzzy
 msgid "YScale Interval"
-msgstr "Интервал обновления"
+msgstr "Интервал оси Y"
 
 #: superset/db_engine_specs/base.py:125
 msgid "Year"
