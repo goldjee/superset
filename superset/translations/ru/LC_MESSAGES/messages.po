@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-06-04 22:57+0400\n"
-"PO-Revision-Date: 2024-06-26 15:04+0400\n"
+"PO-Revision-Date: 2024-06-26 15:11+0400\n"
 "Last-Translator: Daniel Checheta\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -3755,7 +3755,7 @@ msgstr "Круг -> Круг"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Radar/controlPanel.tsx:198
 msgid "Circle radar shape"
-msgstr "Круглая форма радара"
+msgstr "Круглый радар"
 
 #: superset-frontend/plugins/legacy-plugin-chart-chord/src/index.js:35
 #: superset-frontend/plugins/legacy-plugin-chart-rose/src/index.js:36
@@ -12071,7 +12071,7 @@ msgstr "Радар"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Radar/controlPanel.tsx:201
 msgid "Radar render type, whether to display 'circle' shape."
-msgstr ""
+msgstr "Отобразить радар в виде круга"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Tree/controlPanel.tsx:119
 #, fuzzy
