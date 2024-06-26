@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-06-04 22:57+0400\n"
-"PO-Revision-Date: 2024-06-19 07:32+0400\n"
+"PO-Revision-Date: 2024-06-26 14:41+0400\n"
 "Last-Translator: Daniel Checheta\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -3594,6 +3594,8 @@ msgid ""
 "Check if the Rose Chart should use segment area instead of segment radius for "
 "proportioning"
 msgstr ""
+"Установите флажок, если хотите, чтобы площади, а не радиусы сегментов были "
+"пропорциональны мере"
 
 #: superset-frontend/src/dashboard/components/AnchorLink/index.tsx:73
 msgid "Check out this chart in dashboard:"
@@ -5333,7 +5335,7 @@ msgstr ""
 #: superset-frontend/plugins/legacy-plugin-chart-partition/src/controlPanel.tsx:155
 #: superset-frontend/plugins/legacy-plugin-chart-rose/src/controlPanel.tsx:80
 msgid "Date Time Format"
-msgstr "Формат даты и времени"
+msgstr "Формат даты/времени"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/BigNumber/BigNumberTotal/controlPanel.ts:70
 #: superset-frontend/plugins/plugin-chart-echarts/src/BigNumber/BigNumberWithTrendline/controlPanel.tsx:144
@@ -5357,7 +5359,7 @@ msgstr "Дата/Время"
 
 #: superset/connectors/sqla/views.py:168
 msgid "Datetime Format"
-msgstr "Формат даты и времени"
+msgstr "Формат даты/времени"
 
 #: superset/models/helpers.py:1542
 msgid ""
@@ -16454,11 +16456,11 @@ msgid ""
 "start and/or end time."
 msgstr ""
 "Этот элемент фильтрует всю диаграмму по выбранному диапазону времени. Все "
-"относительные даты (\"Last month\", \"Last 7 days\", \"now\" и т.п.) вычисляются "
-"на основе времени сервера без учета часового пояса. Все всплывающие подсказки "
-"приведены в UTC (без часового пояса). Временные метки обрабатываются базой "
-"данных, используя ее локальное время. Заметьте, что при указании времени начала и "
-"окончания можно задать часовой пояс в явном виде в формате ISO 8601."
+"относительные даты (\"последний месяц\", \"последние 7 дней\", \"сейчас\" и т.п.) "
+"вычисляются на основе времени сервера без учета часового пояса. Все всплывающие "
+"подсказки приведены в UTC (без часового пояса). Временные метки обрабатываются "
+"базой данных, используя ее локальное время. Заметьте, что при указании времени "
+"начала и окончания можно задать часовой пояс в явном виде в формате ISO 8601."
 
 #: superset-frontend/src/explore/components/controls/AnnotationLayerControl/AnnotationLayer.jsx:727
 msgid ""
@@ -16991,7 +16993,7 @@ msgstr "Ошибка таймаута"
 
 #: superset-frontend/plugins/plugin-chart-table/src/controlPanel.tsx:364
 msgid "Timestamp format"
-msgstr "Формат даты и времени"
+msgstr "Формат даты/времени"
 
 #: superset-frontend/src/features/alerts/AlertReportModal.tsx:1655
 #: superset-frontend/src/features/reports/ReportModal/index.tsx:349
@@ -17642,7 +17644,7 @@ msgstr "Используйте %s для открытия в отдельной 
 #: superset-frontend/src/explore/controlUtils/controlUtils.test.tsx:114
 #: superset-frontend/src/explore/fixtures.tsx:43
 msgid "Use Area Proportions"
-msgstr "Использовать пропорции области"
+msgstr "В пропорции площади"
 
 #: superset-frontend/plugins/legacy-plugin-chart-partition/src/controlPanel.tsx:199
 msgid "Use a log scale"
