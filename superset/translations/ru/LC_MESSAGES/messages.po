@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-06-04 22:57+0400\n"
-"PO-Revision-Date: 2024-06-26 15:11+0400\n"
+"PO-Revision-Date: 2024-06-26 15:21+0400\n"
 "Last-Translator: Daniel Checheta\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -13903,6 +13903,8 @@ msgid ""
 "        represented by one ring with the innermost circle as the top of the "
 "hierarchy."
 msgstr ""
+"Определяет уровни иерархии на диаграмме. Каждый уровень представлен одним "
+"кольцом, а внутреннее кольцо соответствует верхнему уровню иерархии."
 
 #: superset-frontend/src/components/Datasource/DatasourceEditor.jsx:1517
 #: superset-frontend/src/dashboard/components/EmbeddedModal/index.tsx:191
@@ -15829,7 +15831,7 @@ msgstr "Неверный порт"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Sunburst/controlPanel.tsx:158
 msgid "The primary metric is used to define the arc segment sizes"
-msgstr "Основная мера используется для определения размера сегмента дуги"
+msgstr "Основная мера используется для определения размера сегмента"
 
 #: superset/commands/dataset/exceptions.py:204
 msgid "The provided table was not found in the provided database"
@@ -19305,8 +19307,8 @@ msgid ""
 "[optional] this secondary metric is used to define the color as a ratio against "
 "the primary metric. When omitted, the color is categorical and based on labels"
 msgstr ""
-"[необязательно] вторичная мера используется для определения цвета как доли по "
-"отношению к основной мере. Если не выбрано, цвет задается согласно имени категории"
+"[необязательно] Вторичная мера используется для определения цвета как доли по "
+"отношению к основной мере. Если не выбрано, цвет сопоставляется категории."
 
 #: superset-frontend/src/dashboard/components/nativeFilters/FiltersConfigModal/FiltersConfigModal.tsx:306
 msgid "[untitled]"
