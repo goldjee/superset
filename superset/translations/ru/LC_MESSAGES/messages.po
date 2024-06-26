@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-06-26 16:36+0400\n"
-"PO-Revision-Date: 2024-06-26 16:52+0400\n"
+"PO-Revision-Date: 2024-06-26 16:55+0400\n"
 "Last-Translator: Daniel Checheta\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -373,12 +373,12 @@ msgstr "%s параметр(ы)"
 #: superset-frontend/src/filters/components/Select/SelectFilterPlugin.tsx:211
 #: superset-frontend/src/filters/components/TimeColumn/TimeColumnFilterPlugin.tsx:86
 #: superset-frontend/src/filters/components/TimeGrain/TimeGrainFilterPlugin.tsx:96
-#, fuzzy, python-format
+#, python-format
 msgid "%s option"
 msgid_plural "%s options"
 msgstr[0] "%s вариант"
-msgstr[1] ""
-msgstr[2] ""
+msgstr[1] "%s варианта"
+msgstr[2] "%s вариантов"
 
 #: superset-frontend/src/explore/components/controls/FilterControl/AdhocFilterEditPopoverSimpleTabContent/index.tsx:317
 #, python-format
