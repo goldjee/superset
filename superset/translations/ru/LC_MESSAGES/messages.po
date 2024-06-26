@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-06-04 22:57+0400\n"
-"PO-Revision-Date: 2024-06-26 16:04+0400\n"
+"PO-Revision-Date: 2024-06-26 16:09+0400\n"
 "Last-Translator: Daniel Checheta\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -20309,9 +20309,8 @@ msgid "sql"
 msgstr ""
 
 #: superset-frontend/plugins/plugin-chart-word-cloud/src/plugin/controlPanel.ts:86
-#, fuzzy
 msgid "square"
-msgstr "последний квартал"
+msgstr "перпендикулярно"
 
 #: superset-frontend/plugins/legacy-preset-chart-nvd3/src/Area/controlPanel.ts:55
 #: superset-frontend/src/explore/fixtures.tsx:61
