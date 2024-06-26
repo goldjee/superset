@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-06-04 22:57+0400\n"
-"PO-Revision-Date: 2024-06-26 15:21+0400\n"
+"PO-Revision-Date: 2024-06-26 15:36+0400\n"
 "Last-Translator: Daniel Checheta\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -1718,7 +1718,7 @@ msgstr ""
 
 #: superset-frontend/plugins/plugin-chart-table/src/controlPanel.tsx:445
 msgid "Allow columns to be rearranged"
-msgstr "Разрешить смену столбцов местами"
+msgstr "Разрешить менять местами столбцы"
 
 #: superset-frontend/src/features/databases/DatabaseModal/ExtraOptions.tsx:122
 msgid "Allow creation of new tables based on queries"
@@ -6018,9 +6018,8 @@ msgid "Discard"
 msgstr "Отменить изменения"
 
 #: superset-frontend/src/explore/components/controls/ColumnConfigControl/constants.tsx:190
-#, fuzzy
 msgid "Display"
-msgstr "Отображаемое имя"
+msgstr "Отображение"
 
 #: superset-frontend/src/features/databases/DatabaseModal/DatabaseConnectionForm/CommonParameters.tsx:266
 #: superset-frontend/src/features/databases/DatabaseModal/SqlAlchemyForm.tsx:52
@@ -10584,9 +10583,8 @@ msgid "Number format string"
 msgstr "Числовой формат"
 
 #: superset-frontend/src/explore/components/controls/ColumnConfigControl/constants.tsx:202
-#, fuzzy
 msgid "Number formatting"
-msgstr "Числовой формат"
+msgstr "Форматирование"
 
 #: superset-frontend/plugins/legacy-preset-chart-deckgl/src/layers/Polygon/controlPanel.ts:142
 msgid "Number of buckets to group data"
@@ -13665,6 +13663,9 @@ msgid ""
 "limit. You can use an aggregation function on a column or write custom SQL to "
 "create a percentage metric."
 msgstr ""
+"Выберите одну или несколько мер, чтобы отобразить их в доле от итого. Процентные "
+"меры будут вычислены только на основе данных, уместившихся в лимит строк. Чтобы "
+"создать меру, также можно использовать агрегатную функцию или написать свой SQL."
 
 #: superset-frontend/packages/superset-ui-chart-controls/src/shared-controls/dndControls.tsx:163
 msgid ""
@@ -16652,7 +16653,7 @@ msgstr ""
 
 #: superset-frontend/src/explore/components/ControlPanelsContainer.tsx:603
 msgid "This section contains validation errors"
-msgstr "В этом разделе содержатся ошибки валидации"
+msgstr "В этом разделе есть ошибки"
 
 #: superset-frontend/src/embedded/index.tsx:112
 msgid ""
@@ -17177,9 +17178,8 @@ msgid "Truncate Axis"
 msgstr "Настройка интервала оси"
 
 #: superset-frontend/src/explore/components/controls/ColumnConfigControl/constants.tsx:142
-#, fuzzy
 msgid "Truncate Cells"
-msgstr "Настройка интервала оси"
+msgstr "Обрезать текст"
 
 #: superset-frontend/packages/superset-ui-chart-controls/src/shared-controls/sharedControls.tsx:343
 msgid "Truncate Metric"
@@ -18420,7 +18420,7 @@ msgstr ""
 #: superset-frontend/plugins/plugin-chart-table/src/controlPanel.tsx:422
 msgid ""
 "Whether to align background charts with both positive and negative values at 0"
-msgstr ""
+msgstr "Общий ноль для гистограмм в ячейках"
 
 #: superset-frontend/src/explore/components/controls/ColumnConfigControl/constants.tsx:123
 msgid "Whether to align positive and negative values in cell bar chart at 0"
