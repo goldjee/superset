@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-06-04 22:57+0400\n"
-"PO-Revision-Date: 2024-06-26 15:53+0400\n"
+"PO-Revision-Date: 2024-06-26 15:57+0400\n"
 "Last-Translator: Daniel Checheta\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -14136,7 +14136,7 @@ msgstr "Показывать метку"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Treemap/controlPanel.tsx:85
 msgid "Show labels when the node has children."
-msgstr "Показывать метки, когда у вершины есть дочерние элементы."
+msgstr "Отобразить метки, когда у вершины есть дочерние элементы"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Waterfall/controlPanel.tsx:55
 #: superset-frontend/plugins/plugin-chart-echarts/src/controls.tsx:41
