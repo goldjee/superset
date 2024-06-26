@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-06-04 22:57+0400\n"
-"PO-Revision-Date: 2024-06-26 15:57+0400\n"
+"PO-Revision-Date: 2024-06-26 16:04+0400\n"
 "Last-Translator: Daniel Checheta\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -2796,7 +2796,6 @@ msgstr "Ящик с усами"
 
 #: superset-frontend/plugins/legacy-preset-chart-nvd3/src/DistBar/controlPanel.ts:121
 #: superset-frontend/plugins/plugin-chart-echarts/src/Waterfall/controlPanel.tsx:157
-#, fuzzy
 msgid "Breakdowns"
 msgstr "Разбиения"
 
@@ -2806,6 +2805,8 @@ msgid ""
 "      This can help viewers understand how each category affects the overall "
 "value."
 msgstr ""
+"Разбивает ряды на категории. Это может помочь пользователям понять, как каждая "
+"категория влияет на итоговое значение."
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Bubble/index.ts:45
 #: superset/viz.py:840
@@ -5457,7 +5458,7 @@ msgstr "Deck.gl - Screen Grid"
 #: superset-frontend/plugins/plugin-chart-echarts/src/Waterfall/constants.ts:26
 #: superset-frontend/plugins/plugin-chart-echarts/src/Waterfall/controlPanel.tsx:80
 msgid "Decrease"
-msgstr "Уменьшить"
+msgstr "Падение"
 
 #: superset-frontend/src/features/databases/DatabaseModal/DatabaseConnectionForm/CommonParameters.tsx:134
 #, fuzzy
@@ -8295,7 +8296,7 @@ msgstr "Включить время"
 #: superset-frontend/plugins/plugin-chart-echarts/src/Waterfall/constants.ts:25
 #: superset-frontend/plugins/plugin-chart-echarts/src/Waterfall/controlPanel.tsx:71
 msgid "Increase"
-msgstr "Увеличить"
+msgstr "Рост"
 
 #: superset-frontend/src/SqlLab/components/ColumnElement/index.tsx:65
 msgid "Index"
@@ -13844,9 +13845,8 @@ msgid "Series chart type (line, bar etc)"
 msgstr "Тип ряда (линия, столбец и т.п.)"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Waterfall/controlPanel.tsx:64
-#, fuzzy
 msgid "Series colors"
-msgstr "Столбцы временных рядов"
+msgstr "Цвета рядов"
 
 #: superset-frontend/packages/superset-ui-chart-controls/src/shared-controls/sharedControls.tsx:256
 #: superset-frontend/packages/superset-ui-chart-controls/src/shared-controls/sharedControls.tsx:272
