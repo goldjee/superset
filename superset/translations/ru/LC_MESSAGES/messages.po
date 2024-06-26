@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-06-04 22:57+0400\n"
-"PO-Revision-Date: 2024-06-26 14:52+0400\n"
+"PO-Revision-Date: 2024-06-26 15:04+0400\n"
 "Last-Translator: Daniel Checheta\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -3277,11 +3277,11 @@ msgstr "Утверждено: %s"
 
 #: superset-frontend/plugins/plugin-chart-pivot-table/src/plugin/controlPanel.tsx:354
 msgid "Change order of columns."
-msgstr "Сменить порядок столбцов"
+msgstr "Изменить порядок столбцов."
 
 #: superset-frontend/plugins/plugin-chart-pivot-table/src/plugin/controlPanel.tsx:326
 msgid "Change order of rows."
-msgstr "Сменить порядок строк"
+msgstr "Изменить порядок строк."
 
 #: superset/connectors/sqla/views.py:405
 msgid "Changed By"
@@ -6044,8 +6044,7 @@ msgid ""
 "Display metrics side by side within each column, as opposed to each column being "
 "displayed side by side for each metric."
 msgstr ""
-"Отобразить меры рядом в каждом столбце, в отличие от отображения каждого столбца "
-"рядом для каждой меры."
+"Отобразить меры для каждого столбца или продублировать все столбцы для каждой меры"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Funnel/controlPanel.tsx:81
 msgid ""
@@ -14104,7 +14103,7 @@ msgstr "Показать описание диаграммы"
 
 #: superset-frontend/plugins/plugin-chart-pivot-table/src/plugin/controlPanel.tsx:245
 msgid "Show columns subtotal"
-msgstr "Показать подытог по столбцам"
+msgstr "Показать подытоги по столбцам"
 
 #: superset-frontend/plugins/plugin-chart-pivot-table/src/plugin/controlPanel.tsx:233
 msgid "Show columns total"
@@ -17683,7 +17682,7 @@ msgstr "Использовать старый редактор"
 
 #: superset-frontend/plugins/plugin-chart-pivot-table/src/plugin/controlPanel.tsx:117
 msgid "Use metrics as a top level group for columns or for rows"
-msgstr ""
+msgstr "Использовать меры как группы верхнего уровня для столбцов или строк"
 
 #: superset-frontend/src/filters/components/Range/controlPanel.ts:68
 msgid "Use only a single value."
