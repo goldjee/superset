@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-06-04 22:57+0400\n"
-"PO-Revision-Date: 2024-06-26 14:41+0400\n"
+"PO-Revision-Date: 2024-06-26 14:52+0400\n"
 "Last-Translator: Daniel Checheta\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -2430,9 +2430,8 @@ msgid "Are you sure you want to save and apply changes?"
 msgstr "Вы уверены, что хотите сохранить и применить изменения?"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Pie/controlPanel.tsx:100
-#, fuzzy
 msgid "Area"
-msgstr "текстовая область"
+msgstr "Площадь"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Timeseries/Area/index.ts:64
 #: superset-frontend/plugins/plugin-chart-echarts/src/Timeseries/Regular/Line/controlPanel.tsx:100
@@ -12081,9 +12080,8 @@ msgid "Radial"
 msgstr "Ошибка"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Pie/controlPanel.tsx:101
-#, fuzzy
 msgid "Radius"
-msgstr "Радиус ячейки"
+msgstr "Радиус"
 
 #: superset-frontend/plugins/legacy-preset-chart-deckgl/src/layers/Scatter/controlPanel.ts:83
 msgid "Radius in kilometers"
@@ -12700,9 +12698,8 @@ msgid "Root node id"
 msgstr "ID корневого элемента"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Pie/controlPanel.tsx:96
-#, fuzzy
 msgid "Rose Type"
-msgstr "Тип шага"
+msgstr "Найтингейл"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/controls.tsx:253
 msgid "Rotate x axis label"
@@ -17830,9 +17827,8 @@ msgstr "Формат значения"
 
 #: superset-frontend/plugins/plugin-chart-echarts/src/Funnel/controlPanel.tsx:130
 #: superset-frontend/plugins/plugin-chart-echarts/src/Pie/controlPanel.tsx:126
-#, fuzzy
 msgid "Value and Percentage"
-msgstr "Категория и процентная доля"
+msgstr "Значение и процентная доля"
 
 #: superset-frontend/plugins/legacy-plugin-chart-heatmap/src/controlPanel.tsx:227
 #: superset-frontend/plugins/plugin-chart-echarts/src/Heatmap/controlPanel.tsx:220
